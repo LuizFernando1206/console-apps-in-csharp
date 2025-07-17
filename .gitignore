@@ -1,0 +1,36 @@
+# Pastas e arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Binários e arquivos gerados pelo build
+bin/
+obj/
+
+# Pacotes NuGet
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Arquivos de configuração locais
+*.vsconfig
+
+# Arquivos de cache do Rider (se usar JetBrains Rider)
+.idea/
+
+# Executáveis e DLLs
+*.exe
+*.dll
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Outros arquivos do sistema
+Thumbs.db
+*.DS_Store
+
